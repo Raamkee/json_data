@@ -1,0 +1,33 @@
+{
+    "translation": {
+        "appName": "Popular HR Portal",
+        "next": "அடுத்தது",
+        "submit": "சமர்ப்பிக்க",
+        "login": "உள்நுழைய",
+        "logout": "வெளியேறு",
+        "profile": "சுயவிவரம்",
+        "settings": "அமைப்புகள்",
+        "cancel": "ரத்து செய்",
+        "ok": "சரி",
+        "reject": "நிராகரி",
+        "approve": "ஏற்றுக்கொள்",
+        "notification": "அறிவிப்புகள்",
+        "logoutAlert": "நீங்கள் வெளியேற விரும்புகிறீர்களா?",
+        "exitAlert": "நீங்கள் வெளியேற விரும்புகிறீர்களா?",
+        "language": "மொழி",
+        "tamil": "தமிழ்",
+        "hindi": "हिन्दी",
+        "english": "English",
+        "chooseLanguage": "மொழியை தேர்ந்தெடு",
+        "newPassword": "புதிய கடவுச்சொல்",
+        "confirmPassword": "புதிய கடவுச்சொல்லை உறுதிப்படுத்தவும்",
+        "changePassword": "கடவுச்சொல்லை மாற்று",
+        "darkMode": "இருண்ட நிறம்",
+        "support": "தொழில்நுட்ப ஆதரவு",
+        "travelClaim": "பயண கோரிக்கை",
+        "attendanceDetails": "வருகை விவரம்",
+        "teamMembers": "குழு உறுப்பினர்கள்",
+        "approvals": "ஒப்புதல்கள்",
+        "leave": "விடுமுறை"
+    }
+}
